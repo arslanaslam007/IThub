@@ -25,3 +25,9 @@
 * Linked Profile https://pk.linkedin.com/company/northbay-solutions
 * Job Available https://northbaysolutions.com/about-us/job-openings-lahore/
 * Drop Email jobs.lahore@northbaysolutions.net
+
+## 4-SigmaTec Solutions
+
+* Website http://www.sigmatec.com.pk/
+* Linked Profile https://pk.linkedin.com/company/sigmatec-solutions-pvt--limited
+* Job Available http://www.sigmatec.com.pk/careers
