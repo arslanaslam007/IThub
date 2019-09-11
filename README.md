@@ -15,9 +15,13 @@
 
 ## 2-Arbisoft
 
+* Website https://www.linkedin.com/company/arbisoft
+* Linked Profile https://www.linkedin.com/company/arbisoft
+* Job Available https://hirestream.arbisoft.com/careers/
+
 ## 3-North Bay Solutions
 
-* Website https://northbaysolutions.com/
+* Website https://arbisoft.com/
 * Linked Profile https://pk.linkedin.com/company/northbay-solutions
 * Job Available https://northbaysolutions.com/about-us/job-openings-lahore/
 * Drop Email jobs.lahore@northbaysolutions.net
