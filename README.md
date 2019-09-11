@@ -2,7 +2,7 @@
 
 ## General 
 * List of all IT Companies in Pakistan and overseas
-* Numbering with the Company only is for managing data
+* Numbering with the company title is only for managing data
 * In case of any problem/suggestion create issue
 
 
@@ -17,3 +17,7 @@
 
 ## 3-North Bay Solutions
 
+* Website https://northbaysolutions.com/
+* Linked Profile https://pk.linkedin.com/company/northbay-solutions
+* Job Available https://northbaysolutions.com/about-us/job-openings-lahore/
+* Drop Email jobs.lahore@northbaysolutions.net
